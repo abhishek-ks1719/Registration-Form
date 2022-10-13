@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   min-height: 100vh;
+   background-image: url(99840.jpg);
+   background-position: center; 
+   background-size: cover;
+   background-size: 100% 140%;
+}
+.registration-form{
+    color: black;
+    padding: 20px;
+    backdrop-filter: saturate(80%) blur(5px);
+    width: 800px;
+    margin: 100px auto; 
+    border-radius: 10px;  
+    box-shadow: 0px 0px 1px black;
+}
